@@ -1,0 +1,22 @@
+# worms are the best!!
+# We know how all our neurons are connected (*** crispr intensifies)
+# Sick genome brahj
+1	1	20	sonic_hedgehog	exon1
+1	40	60	sonic_hedgehog	exon2
+1	100	200	sonic_hedgehog	exon3
+2	900000	930000	tails	exon4
+2	100000	200000	metal_sonic	exon1
+2	400000	600000	metal_sonic	exon2
+2	700000	800500	metal_sonic	exon3
+2	900000	930000	metal_sonic	exon4
+1	300	400	sonic_hedgehog	exon4
+1	500	555	sonic_hedgehog	exon5
+2	10	2000	dr_robotnik	exon1
+2	400	6000	dr_robotnik	exon2
+2	1000	20000	dr_robotnik	exon3
+2	3000	40000	dr_robotnik	exon4
+2	40000	50050	dr_robotnik	exon4.b
+2	50000	50055	dr_robotnik	exon5
+2	100000	200000	tails	exon1
+2	400000	600000	tails	exon2
+2	700000	800500	tails	exon3

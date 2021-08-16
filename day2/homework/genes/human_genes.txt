@@ -1,0 +1,17 @@
+chr1	1	20	sonic_hedgehog	exon1
+chr1	40	60	sonic_hedgehog	exon2
+chr1	100	200	sonic_hedgehog	exon3
+chr1	300	400	sonic_hedgehog	exon4
+chr1	500	555	knuckles	exon1
+chr1	800	1000	knuckles	exon2
+chr1	1100	1500	knuckles	exon3
+chr2	10	2000	dr_robotnik	exon1
+chr2	400	6000	dr_robotnik	exon2
+chr2	1000	20000	dr_robotnik	exon3
+chr2	3000	40000	dr_robotnik	exon4
+chr2	40000	50050	dr_robotnik	exon4.b
+chr2	50000	50055	dr_robotnik	exon5
+chr2	100000	200000	tails	exon1
+chr2	400000	600000	tails	exon2
+chr2	700000	800500	tails	exon3
+chr2	900000	930000	tails	exon4
