@@ -14,7 +14,9 @@ def main(flagstat_file, sorted_bed_file):
     bamfileroot = flagstat_file.split("/")[-1].split(".sorted")[0]
     f = open(flagstat_file)
     lines = f.readlines()
-    total_reads = int(lines[4].split(" ")[0])
+    total_mapped_reads = int(lines[4].split(" ")[0]) #includes secondary and we don't want it to!
+    secondary_mapped = int(lines[1].split(" ")[0])
+    total_reads = total_mapped_reads-secondary_mapped
     f.close()
     bedgraphout = '.'.join(sorted_bed_file.split('.')[:-1]) + '.mp.BedGraph'
     wf = open(bedgraphout, "w")
